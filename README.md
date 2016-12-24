@@ -1,7 +1,3 @@
-# ali-sms
-[![build status][travis-image]][travis-url]
-[travis-image]: https://travis-ci.org/tsq-old/ali-sms.svg?branch=master
-[travis-url]: https://travis-ci.org/tsq-old/ali-sms
 
 
 Nodejs SDK for [Aliyun DirectMail service](https://help.aliyun.com/document_detail/29439.html?spm=5176.doc29438.2.1.bOoMjN)
