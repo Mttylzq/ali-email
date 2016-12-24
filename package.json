@@ -1,0 +1,16 @@
+{
+  "name": "ali-email",
+  "version": "1.0.0",
+  "description": "nodejs sdk for aliyun DirectMail API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aliyun",
+    "email",
+    "api"
+  ],
+  "author": "winston",
+  "license": "ISC"
+}
