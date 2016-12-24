@@ -12,5 +12,9 @@
     "api"
   ],
   "author": "winston",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mttylzq/ali-email.git"
+  }
 }
