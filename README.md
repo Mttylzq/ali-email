@@ -11,7 +11,7 @@ npm install ali-email
 ## Usage
 ###SingleSendMail
 ```javascript
-var aliEmail = require("./index");
+var aliEmail = require("ali-email");
 var accessKeyID     = process.env.ALI_SMS_ACCESSKEYID ;
 var accessKeySecret = process.env.ALI_SMS_ACCESSKEYSECRET ;
 
@@ -34,7 +34,7 @@ aliEmail(configSingle, function(err, body) {
 ```
 ###BatchSendMail
 ```javascript
-var aliEmail = require("./index");
+var aliEmail = require("ali-email");
 var accessKeyID     = process.env.ALI_SMS_ACCESSKEYID ;
 var accessKeySecret = process.env.ALI_SMS_ACCESSKEYSECRET ;
 
