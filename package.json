@@ -1,6 +1,6 @@
 {
   "name": "ali-email",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "nodejs sdk for aliyun DirectMail API",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mttylzq/ali-email.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/kevinbeaty/any-promise/issues"
+  },
+  "homepage": "http://github.com/Mttylzq/ali-email"
 }
